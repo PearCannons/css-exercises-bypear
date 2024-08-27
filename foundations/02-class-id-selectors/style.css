@@ -1,9 +1,23 @@
 
-.content.redtree    {
+.content
+
+        {
     background-color: rgb(255, 0, 217);
 }
 
-#content.yellowtree {
+#bluegrass 
+        {
     color:  rgb(0, 0, 255);
     font-size: 36px;
-}
+        }
+
+.content.redtree
+        {
+        font-size: 24px;
+        }
+#whitenoise
+        {
+        background-color: lightgreen;
+        font-size: 24px;
+        font-weight: bold;
+        }
