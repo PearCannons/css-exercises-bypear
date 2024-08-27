@@ -1,0 +1,17 @@
+.whitetext,
+#yellowbg {
+
+    font-size: 28px;
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+
+}
+
+.whitetext {
+    background-color: black;
+    color: white;
+
+}
+
+#yellowbg {
+    background-color: yellow;
+}
